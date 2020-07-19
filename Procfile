@@ -1,0 +1,1 @@
+web: gunicorn edustax1.wsgi --log-file -
